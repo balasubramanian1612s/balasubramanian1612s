@@ -1,7 +1,6 @@
-### Hi there 👋
-
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Balasubramanian!](https://www.linkedin.com/in/aakash9868sinha/) 
 <!--
-**balasubramanian1612s/balasubramanian1612s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/balasubramanian-s-8a5b40190/">
+  <img align="left" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png"  />
+</a>
+<a href="mailto:balasubramanian1612s@gmail.com">
+  <img align="left" width="26px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" />
+</a>
+
+<br />
+
+### About Me 🚀
+🌱 I am pursuing a computer science degree in PSG College of Technology. </br>
+👨‍💻  I am passionate about App Development & I enjoy learning new technologies. </br>
+💥  I am ML Enthusiast </br>
+
+![Balasubramanian's github stats](https://github-readme-stats.vercel.app/api?username=balasubramanian1612s&show_icons=true&hide_border=true)&nbsp;&nbsp;
+<!-- ![Balasubramanian's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balasubramanian1612s&layout=compact&langs_count=8&hide_border=true) -->
+<br />
