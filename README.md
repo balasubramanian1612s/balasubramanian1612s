@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I am pursuing a computer science degree in PSG College of Technology. </br>
+🌱 I am pursuing my comuter science bachelor's degree in PSG College of Technology. </br>
 👨‍💻  I am passionate about App Development & I enjoy learning new technologies. </br>
 💥  I am ML Enthusiast </br>
 
