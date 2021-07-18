@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about App Development & I enjoy learning new technologies. </br>
 💥  I am ML Enthusiast </br>
 
-![Balasubramanian's github stats](https://github-readme-stats.vercel.app/api?username=balasubramanian1612s&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Balasubramanian's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasubramanian1612s&count_private=true)
 <!-- ![Balasubramanian's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balasubramanian1612s&layout=compact&langs_count=8&hide_border=true) -->
 
 
