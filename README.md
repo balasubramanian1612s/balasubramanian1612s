@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Balasubramanian!](https://www.linkedin.com/in/balasubramanian-s-8a5b40190/) 
+## Hey, I'm [Balasubramanian!](https://www.linkedin.com/in/balasubramanian-s-8a5b40190/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
